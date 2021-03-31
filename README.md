@@ -1,1 +1,1 @@
-# kaggle
+# Kaggle dataset & competition collections
